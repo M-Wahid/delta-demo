@@ -4,4 +4,4 @@ this is a demo for git and github class
 # Teacher
 sharadhda khapra
 # student 
-deltta student
+delta student
